@@ -1,0 +1,13 @@
+﻿No,Sample ID,Core Kering (W1),Core Jenuh (W2),Core Setelah di panaskan (W3),Volume Pori,Volume Bulk,(φ),Volume Oil Trap,Saturasi Oil Moveable (Som),,Saturasi Oil Resudial (Sor),
+,,gr,gr,gr,mL,mL,%,mL,%,,%,
+,,,,,,,,,Timbangan ,Volume fluida,Timbangan,Volume fluida
+1,C,"128,24",136,"133,35","9,349","62,6","14,9","0,6","34,1","5,35","65,9","94,65"
+2,E,"118,44","126,47","125,31","9,674","69,47","13,9","0,8","14,4","8,27","85,6","91,73"
+3,G,"123,72","133,6","131,16","11,903","64,5","18,4","0,5","24,7","4,2","75,3","95,8"
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,Saturasi yang “tidak dapat berubah / tidak bergerak” (berkaitan dengan fluida yang tidak dapat mengalir di formasi),,,,,,,
+,,,,,Residual à biasanya untuk minyak à sor,,,,,,,
+,,,,,,,,,,,,
+,,,,,Saturasi yang “dapat berubah / dapat bergerak” (berkaitan dengan fluida yang dapat mengalir di formasi),,,,,,,
+,,,,,Movable (sering digunakan untuk minyak) à Som,,,,,,,
